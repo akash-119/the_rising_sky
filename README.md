@@ -70,6 +70,14 @@ It is designed as a structured content platform that delivers categorized inform
   <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/36116b87-2b87-4d76-a7bc-4064231f237e" />
 
 * About
+  
+  <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/ac69ee80-73bd-4a00-9419-88c962c5e6d3" />
+  
+* Service
+  
+  <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/508165b0-b35b-4e89-aed7-614ad6fba27f" />
+
+
 * Individual post pages
 
 ### 🔹 Content Categories
