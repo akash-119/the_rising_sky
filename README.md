@@ -66,7 +66,9 @@ It is designed as a structured content platform that delivers categorized inform
 
 ### 🔹 Core Pages
 
-* Home (blog feed)
+* Home
+  <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/36116b87-2b87-4d76-a7bc-4064231f237e" />
+
 * About
 * Individual post pages
 
