@@ -1,146 +1,114 @@
-# 🚀 The Rising Sky – Content & Knowledge Platform
+# 🚀 The Rising Sky – Hotel & Travel Package Platform
 
 ## 📌 Overview
 
-The Rising Sky is a content-driven platform focused on sharing knowledge related to Japanese culture, language, lifestyle, and personal experiences.
+The Rising Sky is a travel and hospitality platform designed to showcase curated hotel stays, travel packages, and destination-based experiences. The website is built to present package details in a structured format and generate inquiries from potential customers.
 
-The website functions as a blog-based system where users can explore educational content, cultural insights, vocabulary lessons, and informational posts related to Japan.
-
-It is designed as a structured content platform that delivers categorized information in an accessible and reader-friendly format. ([The Rising Sky][1])
+This project focuses on delivering a clean, conversion-oriented user experience where users can explore travel options and directly connect for bookings or consultations.
 
 ---
 
 ## 🎯 Core Features
 
-* 📚 Blog-based content platform
-* 🇯🇵 Japanese language learning posts (vocabulary, kanji, tips)
-* 🎌 Cultural content (Japan lifestyle, traditions, experiences)
-* 🎮 Informational articles (games, anime, media)
-* 🧠 Categorized knowledge sections
-* 📄 Multi-post structured layout
-* 📱 Fully responsive design
-* ⚡ Lightweight and fast-loading pages
+* 🏨 Hotel and travel package listings
+* 🌍 Destination-based travel offerings
+* 📄 Dedicated pages for services and packages
+* 📞 Inquiry-based lead generation system
+* 🎯 Conversion-focused UI sections
+* 📱 Fully responsive design across devices
+* ⚡ Optimized frontend performance
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend / Platform**
+**Frontend**
 
-* Reachjs
-* Tailwind CSS
+* HTML5
+* CSS3
+* JavaScript
 
-**Content System**
+**Integrations**
 
-* Category-based blog structure
-* Post management system
+* Contact / inquiry form (email-based system)
 
 **Deployment**
 
-* Hosted on Hostinger
+* Static website deployed on hosting platform
+* Optimized production build
 
 ---
 
 ## 🧠 Architecture & Development Approach
 
-* Built as a **content management system (CMS-based platform)**
-* Structured using:
+* Built as a **multi-page travel platform**
+* Each section/page contains:
 
-  * Categories (e.g., Japanese language, culture)
-  * Individual blog posts
+  * Structured content
+  * Clear service presentation
 * Focus on:
 
-  * Content readability
-  * Simple navigation
-  * Continuous content publishing
+  * User experience
+  * Simplicity
+  * Lead generation
 
-👉 This approach allows:
+👉 Key design goals:
 
-* Easy content updates
-* Scalable knowledge system
-* Low maintenance
+* Easy navigation
+* Clear package visibility
+* Fast loading
 
 ---
 
 ## 📄 Website Structure
 
-### 🔹 Core Pages
+* Home (multi-section landing page)
+* About (company and service overview)
+* Services (travel packages and offerings)
+* Contact / Inquiry
 
-* Home
-  <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/36116b87-2b87-4d76-a7bc-4064231f237e" />
+Each page is designed to:
 
-* About
-  
-  <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/ac69ee80-73bd-4a00-9419-88c962c5e6d3" />
-  
-* Service
-  
-  <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/508165b0-b35b-4e89-aed7-614ad6fba27f" />
-
-
-* Individual post pages
-
-### 🔹 Content Categories
-
-* Japanese Language
-* Culture & Lifestyle
-* Anime / Entertainment
-* Educational posts
-
-Each post includes:
-
-* Structured explanation
-* Examples and insights
-* Topic-specific breakdown
-
----
-
-## 📚 Content System (Key Highlight)
-
-The main strength of this project is its **knowledge-driven content structure**:
-
-* Articles organized by topic
-* Educational breakdown of concepts
-* Regular content updates
-* Informational depth across posts
-
-👉 This transforms the platform into a **learning-oriented knowledge hub**, not just a blog
+👉 Present travel information clearly
+👉 Highlight offerings
+👉 Drive user action
 
 ---
 
 ## 🌐 SEO & Optimization
 
-* Category-based SEO structure
-* Multiple indexed blog posts
-* Clean URL structure
-* Lightweight pages for fast loading
-* Mobile-friendly design
+* Structured page hierarchy
+* Optimized assets for performance
+* Mobile-first responsive design
+* Clean layout for better user experience
 
 ---
 
-## 💼 Use Case
+## 💼 Business Use Case
 
-This platform serves as:
+The platform acts as a **travel inquiry system**:
 
-* 📖 Learning resource for Japanese language
-* 🎌 Cultural knowledge hub
-* 🧠 Informational blog system
+1. Users explore hotel packages
+2. Understand travel offerings
+3. Submit inquiry
+4. Business follows up for booking
 
-Users can:
+👉 Suitable for:
 
-1. Browse categories
-2. Read structured articles
-3. Gain knowledge on specific topics
+* Travel agencies
+* Tour operators
+* Hotel service providers
 
 ---
 
 ## ⚙️ My Contribution
 
-* Developed and structured the full website
-* Organized content into categorized system
-* Designed layout for readability and engagement
-* Managed blog architecture and navigation
-* Ensured responsive design across devices
+* Designed and developed full website
+* Created structured multi-page layout
+* Built service/package presentation system
+* Implemented inquiry-based workflow
+* Optimized UI for conversion
+* Deployed project
 
 ---
 
@@ -152,42 +120,33 @@ Users can:
 
 ## 📸 Screenshots
 
+* Home <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/36116b87-2b87-4d76-a7bc-4064231f237e" />
 
-* Homepage (blog layout)
-* Category page
-* Blog post page
-* Mobile UI
+* About <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/ac69ee80-73bd-4a00-9419-88c962c5e6d3" />
+
+* Service <img width="1673" height="847" alt="image" src="https://github.com/user-attachments/assets/508165b0-b35b-4e89-aed7-614ad6fba27f" />
 
 ---
 
 ## 🚧 Challenges & Solutions
 
-**Challenge:** Structuring large amount of content
-**Solution:** Implemented category-based organization
+**Challenge:** Presenting travel packages in a simple structure
+**Solution:** Designed clear sections with focused content
 
-**Challenge:** Maintaining readability across posts
-**Solution:** Clean layout and simple UI
+**Challenge:** No backend booking system
+**Solution:** Implemented inquiry-based lead flow
 
-**Challenge:** Content scalability
-**Solution:** Used CMS-based architecture
+**Challenge:** Maintaining performance
+**Solution:** Optimized frontend assets and structure
 
 ---
 
 ## 💡 Key Learnings
 
-* Building content-driven platforms
-* Structuring blog-based systems
-* Managing categorized knowledge
-* Improving content readability and UX
-* Working with CMS architecture
+* Building travel-based platforms
+* Structuring service-oriented UI
+* Creating conversion-focused layouts
+* Handling real-world deployment
+
 
 ---
-
-# ⚠️ Brutal Truth (Important)
-
-This project is:
-
-👉 Good for showing **content system understanding**
-👉 Weak for showing **development complexity**
-
-
